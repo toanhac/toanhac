@@ -34,7 +34,7 @@ I'm a highly motivated Computer Science student at HCMUT, VNU-HCM, with a strong
 
 ## ✨ Soft Skills
 
-Analytical Problem-Solving, Team Collaboration, Research, Communication, Technical Documentation (LaTeX, Microsoft Office Suite) [cite: 11]
+Analytical Problem-Solving, Team Collaboration, Research, Communication, Technical Documentation (LaTeX, Microsoft Office)
 
 ## 🎾 Interests
 
